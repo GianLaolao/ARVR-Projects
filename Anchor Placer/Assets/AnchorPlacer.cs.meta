@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 634c6b754b3fb8c46a9fd3df91e0ad4a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvas: {instanceID: 0}
+  - kanaPrefab: {fileID: 2296279683599564519, guid: b3fdf5f32d403a24092fcc21f07ebab4,
+      type: 3}
+  - aiPrefab: {fileID: 9188073673441600796, guid: d9eb2620157ac6745a04988a1b8b3f3c,
+      type: 3}
+  - rubyPrefab: {fileID: 5630226992828597340, guid: cf15adae71b287646b30fe765624c576,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
